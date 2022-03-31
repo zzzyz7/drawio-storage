@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T03:03:22.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" version="17.2.4" etag="pSTpWqhgPgWk138wHeUG" type="github"><diagram id="8Ng9BIpr5JO159I3pUD2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-31T04:01:43.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="K_0tzUOiDkNu8SDloW-N" version="17.2.4" type="github">
+  <diagram id="8Ng9BIpr5JO159I3pUD2" name="Page-1">
+    <mxGraphModel dx="1038" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="96ath5VRiqGl4S-wtM1g-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="96ath5VRiqGl4S-wtM1g-1" target="96ath5VRiqGl4S-wtM1g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="96ath5VRiqGl4S-wtM1g-1" target="96ath5VRiqGl4S-wtM1g-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="96ath5VRiqGl4S-wtM1g-1" target="96ath5VRiqGl4S-wtM1g-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="96ath5VRiqGl4S-wtM1g-1" target="96ath5VRiqGl4S-wtM1g-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="96ath5VRiqGl4S-wtM1g-1" target="96ath5VRiqGl4S-wtM1g-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-1" value="Project Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-2" value="have a solid technical background.&lt;br&gt;have a good understand of the business.&lt;br&gt;inspire, manage and lead humans.&lt;br&gt;possess a high sense of responsibility&lt;br&gt;be good at multitasking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-4" value="Responsibility" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="130" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="96ath5VRiqGl4S-wtM1g-5" target="96ath5VRiqGl4S-wtM1g-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-5" value="Designer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="96ath5VRiqGl4S-wtM1g-6" target="96ath5VRiqGl4S-wtM1g-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-6" value="Developer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="96ath5VRiqGl4S-wtM1g-7" target="96ath5VRiqGl4S-wtM1g-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-7" value="Quality Assurance Specialist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="96ath5VRiqGl4S-wtM1g-8" target="96ath5VRiqGl4S-wtM1g-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-8" value="Sales and Marketing Specialist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-9" value="Strategist&lt;br&gt;Navigation planner&lt;br&gt;Visual designer&lt;br&gt;Content planner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="400" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-11" value="Java/Kotlin for Android&lt;br&gt;Objective-C/Swift for iOS&lt;br&gt;Python for AI&lt;br&gt;Impletmenting the program&lt;br&gt;Managing the program&lt;br&gt;Testing the program" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="400" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-12" value="Responsibility" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="360" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-14" value="Responsibility" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="360" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-15" value="Test the mobile app&lt;br&gt;Point out the improvement&lt;br&gt;Show the indeed necessary&lt;br&gt;Making the decision" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="400" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-16" value="Communicating with customers&lt;br&gt;Working on the product brand&lt;br&gt;Creating advertising materials&lt;br&gt;Making the product into profit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="788.75" y="400" width="182.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-26" value="Responsibility" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="360" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="96ath5VRiqGl4S-wtM1g-27" value="Responsibility" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="835" y="360" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
